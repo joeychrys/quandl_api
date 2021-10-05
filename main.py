@@ -1,7 +1,7 @@
 import json as j
 import requests
 
-API_KEY = "yQocaDM_5eervAmV8AWy"
+API_KEY = "Your_API_key"
 
 
 def get_data(database_code, dataset_code):
