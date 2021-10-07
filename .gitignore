@@ -1,8 +1,5 @@
 # avoid python venv
 venv
 
-# avoid public api key
-api_key.py
-
 # avoid cache
 __pycache__
