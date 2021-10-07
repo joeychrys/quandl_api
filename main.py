@@ -1,7 +1,8 @@
 import json as j
 import requests
-from api_key import API_KEY
+import os
 
+API_KEY = os.environ.get("QUANDL_API")
 
 def get_data(database_code, dataset_code):
 
