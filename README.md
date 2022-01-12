@@ -1,2 +1,2 @@
 # Quandl API
-Make the api key an env variable.
+Full documentation coming soon.
